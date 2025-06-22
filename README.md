@@ -23,10 +23,6 @@ A decentralized crowdfunding application built with **Solidity**, **React.js**, 
 * **Wallet:** MetaMask
 * **Other:** Ethers.js, Hardhat
 
-## 📸 Screenshots
-
-> *(Optional: Add screenshots showing campaign creation, contribution, and transaction success)*
-
 ## 🔧 Setup Instructions
 
 1. **Clone the Repository**
